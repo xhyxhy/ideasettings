@@ -1,0 +1,11 @@
+<keymap version="1" name="Windows复制" parent="$default">
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl space" />
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
+  <action id="FileChooser.GotoModule" />
+  <action id="GotoBookmark3" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl 3" />
+  </action>
+</keymap>
